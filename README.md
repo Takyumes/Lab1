@@ -1,2 +1,2 @@
 # ET0735 - Lab 1 (Introduction to Git and GitHub)
-[YouTube](www.youtube.com)
+[YouTube](https://www.youtube.com)
